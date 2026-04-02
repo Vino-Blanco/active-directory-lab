@@ -38,7 +38,7 @@ During the build, I resolved several common Active Directory lab issues:
 - Group Policy applied to the domain-joined client
 
 ## Screenshots
-See the `/screenshots` folder for configuration and validation screenshots.
+![Domain Join](screenshots/04-domain-joined.png)
 
 ## Skills Demonstrated
 - Active Directory administration
