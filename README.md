@@ -1,7 +1,7 @@
 # Active Directory Home Lab
 
 ## Overview
-Built a Windows Active Directory lab in VirtualBox with a domain controller, DNS, a domain-joined Windows 10 client, and Group Policy configuration.
+Designed, deployed, and troubleshot a Windows Active Directory lab environment in VirtualBox with a domain controller, DNS, a domain-joined Windows 10 client, and Group Policy configuration.
 
 ## Environment
 - Windows Server (DC01)
