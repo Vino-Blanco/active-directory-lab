@@ -77,7 +77,7 @@ During the build, I resolved several common Active Directory lab issues:
 - Windows client domain join
 - Network troubleshooting
 
-  ## Key Takeaways
+## Key Takeaways
 
 - Built and configured a fully functional Active Directory environment
 - Diagnosed and resolved DNS and IPv6-related issues impacting domain communication
