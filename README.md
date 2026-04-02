@@ -38,7 +38,25 @@ During the build, I resolved several common Active Directory lab issues:
 - Group Policy applied to the domain-joined client
 
 ## Screenshots
-![Domain Join](screenshots/04-domain-joined.png)
+![DC IP](screenshots/01-dc-ipconfig.png)
+
+![Client IP](screenshots/02-client-ipconfig.png)
+
+![DNS](screenshots/03-dns-nslookup.png)
+
+![Domain Joined](screenshots/04-domain-joined.png)
+
+![Whoami](screenshots/05-whoami-domain.png)
+
+![AD Users](screenshots/06-ad-users.png)
+
+![GPO Created](screenshots/07-gpo-created.png)
+
+![GPO Applied](screenshots/08-gpo-applied.png)
+
+![USB Blocked](screenshots/09-usb-blocked.png)
+
+![Ping DC](screenshots/10-ping-dc.png)
 
 ## Skills Demonstrated
 - Active Directory administration
