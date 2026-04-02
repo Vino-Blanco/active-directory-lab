@@ -37,7 +37,7 @@ During the build, I resolved several common Active Directory lab issues:
 - Successful domain login using `LAB\Administrator`
 - Group Policy applied to the domain-joined client
 
-## 📸 Screenshots
+## Screenshots
 
 ### Domain Controller Configuration
 ![DC IP](screenshots/01-dc-ipconfig.png)
@@ -53,6 +53,12 @@ During the build, I resolved several common Active Directory lab issues:
 
 ### Group Policy Applied
 ![GPO](screenshots/08-gpo-applied.png)
+
+### Removable Storage Blocked
+![USB Blocked](screenshots/09-usb-blocked.png)
+
+### Network Connectivity Test
+![Ping DC](screenshots/10-ping-dc.png)
 
 ## Skills Demonstrated
 - Active Directory administration
