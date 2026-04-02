@@ -48,11 +48,20 @@ During the build, I resolved several common Active Directory lab issues:
 ### DNS Resolution
 ![DNS](screenshots/03-dns-nslookup.png)
 
-### Domain Login
+### Domain Join Confirmation
+![Domain Joined](screenshots/04-domain-joined.png)
+
+### Domain Authentication
 ![Whoami](screenshots/05-whoami-domain.png)
 
+### Active Directory Users
+![AD Users](screenshots/06-ad-users.png)
+
+### Group Policy Created
+![GPO Created](screenshots/07-gpo-created.png)
+
 ### Group Policy Applied
-![GPO](screenshots/08-gpo-applied.png)
+![GPO Applied](screenshots/08-gpo-applied.png)
 
 ### Removable Storage Blocked
 ![USB Blocked](screenshots/09-usb-blocked.png)
